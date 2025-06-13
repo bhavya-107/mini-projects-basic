@@ -55,4 +55,6 @@ void temp ::signUp()
 
     file.open("loginData.txt", ios ::out | ios ::app);
     file << userName << "*" << email << "*" << password << endl;
+
+    cout<<"test";
 }

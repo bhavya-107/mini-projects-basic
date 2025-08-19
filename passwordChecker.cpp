@@ -221,7 +221,7 @@ int main() {
     } while (choice == 'y' || choice=='Y');
 
      cout << "\nThanks for using Password Strength Checker!" << endl;
-    cout << "Remember: Use strong, unique passwords for all accounts! 🔒" << endl;
+    cout << "Remember: Use strong, unique passwords for all accounts!" << endl;
     
     return 0;
 }
